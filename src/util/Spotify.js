@@ -1,5 +1,6 @@
 const cliendId = 'e18a7bf91aca47e884cdec367ed0b18c';
-const redirectUri = 'http://localhost:3000/';
+// const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://codecademy-jammming.vercel.app';
 let accessToken;
 
 const Spotify = {
